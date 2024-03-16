@@ -2,7 +2,6 @@
 import streamlit as st
 import math
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import calendar
 import plotly.graph_objects as go
