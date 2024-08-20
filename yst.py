@@ -1,12 +1,12 @@
 # Import necessary libraries
 import streamlit as st
 import math
+import numpy
+import plotly
 import pandas as pd
 import plotly.express as px
 import calendar
 import plotly.graph_objects as go
-import numpy
-import plotly
 
 # GHI values of Nigeria States using a 22-year climatology average (annual) from NASA (in kWh/m² per day)
 ghi = {
